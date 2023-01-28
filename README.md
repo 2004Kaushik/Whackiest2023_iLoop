@@ -7,5 +7,5 @@
 We also tried to make an app using figma, but we couldn't complete it due to time constraints.
 The link to the figma file is: [stay fit](https://www.figma.com/file/Dgy9MgveCM5flOM0S2g6VW/Simply-Fit?node-id=0%3A1&t=lTVlbg1lbMlikYNe-0)
 
-The link to the website i: [stay fit website](https://simplyfit.squarespace.com/)
+The link to the website is: [stay fit website](https://simplyfit.squarespace.com/)
 password for the site: iloop
